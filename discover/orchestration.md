@@ -18,5 +18,5 @@ In SAP AI Core, Orchestration is a managed capability that lets you design, conf
 
 ### Learn More
 [SAP Help - Orchestration in SAP AI Core](https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/orchestration-8d022355037643cebf775cd3bf662cc5)  
-[Orchestrate your Generative AI workflows through the SAP Generative AI Hub](https://community.sap.com/t5/technology-blog-posts-by-sap/orchestrate-your-generative-ai-workflows-through-the-sap-generative-ai-hub/ba-p/13978850)
+[Orchestrate your Generative AI workflows through the SAP Generative AI Hub](https://community.sap.com/t5/technology-blog-posts-by-sap/orchestrate-your-generative-ai-workflows-through-the-sap-generative-ai-hub/ba-p/13978850)  
 [Building an Agentic AI System with SAP Generative AI Hub](https://community.sap.com/t5/technology-blog-posts-by-sap/building-an-agentic-ai-system-with-sap-generative-ai-hub/ba-p/14078187)

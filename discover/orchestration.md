@@ -1,5 +1,7 @@
 In SAP AI Core, Orchestration is a managed capability that lets you design, configure, and execute end-to-end AI workflows by chaining together different modules into a single pipeline that can be triggered with one API call.
 
+![](img/orchestration-workflow.png)
+
 ### Business Benefits
 - **Unified Access to Models**
     You can connect to and switch between different large language models (LLMs) and foundation models (from SAP or hyperscaler providers) using a single, consistent API—no need to rewrite client code.

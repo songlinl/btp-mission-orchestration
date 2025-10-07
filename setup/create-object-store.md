@@ -1,6 +1,6 @@
 ## Set Up Object Store
 
-> Several object repositories can be used for storing and retrieving data. In this mission, we will use the **Object Store on SAP Business Technology Platform (BTP)** as the primary repository. However, you can also integrate with alternative repositories such as **AWS S3**, **Microsoft SharePoint**, or [other compatible storage solutions](https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/grounding-035c455a5a424697b60f4a24b6d791fe), depending on your system landscape and development preferences. 
+>📝**Note**: Several object repositories can be used for storing and retrieving data. In this mission, we will use the **Object Store on SAP Business Technology Platform (BTP)** as the primary repository. However, you can also integrate with alternative repositories such as **AWS S3**, **Microsoft SharePoint**, or [other compatible storage solutions](https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/grounding-035c455a5a424697b60f4a24b6d791fe), depending on your system landscape and development preferences. 
 
 1. Navigate to your global account and ensure the **Object Store** with '**standard**' plan is assigned to the subaccount. 
 

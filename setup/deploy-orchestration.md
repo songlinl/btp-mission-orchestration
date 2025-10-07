@@ -1,17 +1,16 @@
 ### Deploy Orchestration Service 
 
-1. Expand the ML Operations menu on the left and choose **Configurations**. 
-    
-    You need to create a configuration of the orchestration service. Choose **Create**.
+1. Choose **ML Operations** -> **Configurations** -> **Create**.
 
     ![config orchestration start](img/orch-02-create-config-start.png)
 
-2. Provide the following information and choose **Next**.
+2. Configure your orchestration with the following:
 
     - Configuration Name: **my-first-orchestration**
     - Scenario: **orchestration**
     - Version: **0.0.1**
     - Executable: **orchestration**
+    - Choose **Next**.
 
     ![enter name](img/orch-03-enter-name.png)
 
@@ -43,10 +42,10 @@
     **Now the deployment has started.** Monitor the status changes here. 
     On the deployment screen, you can see the Target Status is **RUNNING** and in the beginning, the Current Status is **UNKNOWN**.  Also, the deployment URL shows *URL isn't available* until the orchestration is deployed.  
 
-    > 📝**Note**: The deployment process usually takes between a few minutes, depending on the server's status, network, the number of parallel jobs, etc. You can refresh the status by clicking the refresh icon on the top right of the screen. In the meantime, you can proceed with the following steps.
+    > 📝**Note**: The deployment could take a few minutes depending on the server's status, network, the number of parallel jobs, etc. You can refresh the status by clicking the refresh icon on the top right of the screen. 
     > ![refresh deployment](img/orch-10-refresh-deploy.png)
 
 
-10. After some time, you should see the orchestration deployed and running. 
+10. Finally, you will see the orchestration is deployed. 
 
     ![deployment running](img/orch-12-deploy-running.png)

@@ -35,7 +35,7 @@
     - Name: **s3-grounding**
     - Secret: Refer to the [SAP Help Portal](https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/grounding-generic-secrets-for-aws-s3-15eb50b05c3a4394ba86677209be8f40) for more details about the generic secret for AWS S3. 
     >**Generic Secret Example**  
-    >The generic secret values are copied from Object Store service key and must be Base64-encoded. 
+    >The generic secret values are copied from Object Store service key and must be [Base64-encoded](https://www.base64decode.org/). 
     >```json
     >{
     >  "url": "aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uEXAMPLE==",

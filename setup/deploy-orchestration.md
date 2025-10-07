@@ -43,7 +43,7 @@
     **Now the deployment has started.** Monitor the status changes here. 
     On the deployment screen, you can see the Target Status is **RUNNING** and in the beginning, the Current Status is **UNKNOWN**.  Also, the deployment URL shows *URL isn't available* until the orchestration is deployed.  
 
-    > [!Note] The deployment process usually takes between a few minutes, depending on the server's status, network, the number of parallel jobs, etc. You can refresh the status by clicking the refresh icon on the top right of the screen. In the meantime, you can proceed with the following steps.
+    > 📝**Note**: The deployment process usually takes between a few minutes, depending on the server's status, network, the number of parallel jobs, etc. You can refresh the status by clicking the refresh icon on the top right of the screen. In the meantime, you can proceed with the following steps.
     > ![refresh deployment](img/orch-10-refresh-deploy.png)
 
 

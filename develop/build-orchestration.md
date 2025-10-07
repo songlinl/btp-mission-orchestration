@@ -1,4 +1,4 @@
-## Build the Orchestration Pipeline
+## Build an Orchestration Workflow
 
 The orchestration pipeline consists of several steps, including grounding, prompt templating, data masking, content filtering, input and output translation, and model configuration. Among these, only the **Templating** and **Model Configuration** steps are mandatory. The inclusion of other steps depends on your specific use case. You can easily enable or disable optional steps using the provided toggle switches.
 

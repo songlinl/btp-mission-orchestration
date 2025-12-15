@@ -3,11 +3,15 @@
 The orchestration pipeline consists of several steps, including grounding, prompt templating, data masking, content filtering, input and output translation, and model configuration. Among these, only the **Templating** and **Model Configuration** steps are mandatory. The inclusion of other steps depends on your specific use case. You can easily enable or disable optional steps using the provided toggle switches.
 
 
-1. Choose **Generative AI Hub** -> **Orchestration** -> **Edit Workflow**. 
+1. Choose **Generative AI Hub** -> **Orchestration** -> **Create**. 
+
+    ![create orchestration 00](img/buildorch00.png)
+
+2. Choose **Edit Workflow**. 
 
     ![create orchestration 01](img/buildorch01.png)
 
-3. Turn on both **Grounding** and **Data Masking**, turn off the other steps, and choose **Edit**. 
+3. Turn on both **Grounding**, **Data Masking**, and **Output Filtering**, turn off the other steps, and choose **Edit**. 
 
     ![create orchestration 02](img/buildorch02.png)
 

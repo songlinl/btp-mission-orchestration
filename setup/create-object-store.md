@@ -57,14 +57,14 @@
     aws s3 cp <source> <target> [--options]
     ```
     > **s3 cp Example**  
-    > The following example copies a local file from your current working directory to the Amazon S3 bucket with the s3 cp command. <your-bucket-name> is the value of “bucket” in the service key. 
+    > The following example copies a local file from your current working directory to the Amazon S3 bucket with the s3 cp command. "your-bucket-name" is the value of "bucket" in the service key. 
     > ```
     > aws s3 cp filename.txt s3://your-bucket-name
     > ```
 
     ![](img/objectstore10.png)
 
-5. Verify the files uploaded into the S3 bucket. 
+5. Verify the files uploaded into the S3 bucket using the following command. 
     ```
     aws s3 ls s3://your-bucket-name
     ```
